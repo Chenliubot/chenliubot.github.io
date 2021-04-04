@@ -8,7 +8,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 47.5%;
     position: sticky;
-    font-family: Roboto, sans-serif;
+    font-family: futura, Verdana, sans-serif;
     width: 100%;
     height: 45px;
     color: whitesmoke;
