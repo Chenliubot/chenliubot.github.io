@@ -4,7 +4,7 @@ body {
     margin: 0px;
     background-color: rgb(15, 46, 58);
     width: 100%;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .navbar {
@@ -69,7 +69,27 @@ a:visited {
     color: inherit;
 }
 
+.board {
+    font-family: futura, Verdana, sans-serif;
+    color: whitesmoke;
+    background-color: rgba(1, 14, 19, 0.65);
+    text-align: center;
+    position: relative;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top: 20px;
+    height: 100%;
+    width: 90%;
+    padding: 10px;
+    transform: translate(-10px, 0px);
+}
+
+
 .bg {
     float: right;
+    height: 100%;
+    top: 0px;
+    position: absolute;
+    z-index: -100;
 }
 
