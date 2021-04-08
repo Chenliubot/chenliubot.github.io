@@ -2,9 +2,9 @@
 body {
     padding: 0px;
     margin: 0px;
-    background-color: rgb(15, 46, 58);
+    background-color: #05131E;
     width: 100%;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .navbar {
