@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
 body {
     padding: 0px;
     margin: 0px;
     background-color: #05131E;
     width: 100%;
     overflow-x: hidden;
-    font-family: Roboto, helvetica, verdana, sans-serif;
+    font-family: Futura, helvetica, verdana, sans-serif;
+    color: whitesmoke;
 }
 
 .navbar {
@@ -15,10 +14,8 @@ body {
     position: sticky;
     z-index: 100;
     top: 0px;
-    font-family: inherit;
     width: 100%;
     height: 45px;
-    color: whitesmoke;
     background-color: rgb(6, 30, 39);
     box-shadow: 0px 3px 10px rgb(1, 9, 14);
 }
@@ -73,8 +70,6 @@ a:visited {
 }
 
 .board {
-    font-family: inherit;
-    color: whitesmoke;
     background-color: rgba(1, 14, 19, 0.65);
     text-align: center;
     position: relative;
@@ -89,7 +84,17 @@ a:visited {
 
 .main {
     width: 90%;
-    margin: 5%;
+    margin-left: 5%;
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 60%;
+}
+
+.section {
+    background-color: rgba(1, 14, 19, 0.65);
+    padding: 20px;
+    border-radius: 15px;
+    transform: translate(-7.5px, -7.5px);
 }
 
 .bg {
