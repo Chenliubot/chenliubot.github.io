@@ -1,5 +1,4 @@
 # chenliubot.github.io
-READ BEFORE
 
 啥也不是，快走吧
 群里想帮忙的大佬（盲猜一个没有）可以康康
