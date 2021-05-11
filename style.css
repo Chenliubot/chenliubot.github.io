@@ -97,6 +97,15 @@ a:visited {
     transform: translate(-7.5px, -7.5px);
 }
 
+.subdivisions {
+    display: grid;
+    margin-left: 5%;
+}
+
+#intro {
+    height: 500px;
+}
+
 .bg {
     float: right;
     width: 100%;
