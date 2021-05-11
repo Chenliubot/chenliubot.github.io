@@ -68,3 +68,24 @@ a:visited {
     text-decoration: inherit;
     color: inherit;
 }
+
+.boxes {
+    width: 85%;
+    align-content: center;
+    background-color: rgba(32, 60, 83, 0.829);
+    padding: 10px;
+    margin: 5%;
+    border-radius: 20px;
+}
+
+
+.audio {
+    width: 100%;
+}
+
+.footer {
+    position: aboslute;
+    background-color: rgba(32, 60, 83, 0.829);
+    padding: 10%;
+    text-align: center;
+}

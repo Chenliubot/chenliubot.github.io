@@ -106,11 +106,5 @@ a:visited {
     height: 500px;
 }
 
-.bg {
-    float: right;
-    width: 100%;
-    top: 0px;
-    position: absolute;
-    z-index: -100;
-}
+
 
