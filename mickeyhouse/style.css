@@ -3,6 +3,7 @@ body {
     margin: 0px;
     background-color: #05131E;
     width: 100%;
+    position: absolute;
     overflow-x: hidden;
     font-family: Futura, helvetica, verdana, sans-serif;
     color: whitesmoke;
