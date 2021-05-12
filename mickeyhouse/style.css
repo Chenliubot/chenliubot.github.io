@@ -226,3 +226,8 @@ footer {
     transition-duration: 0.2s;
     box-shadow: 5px 3px 10px rgb(1, 9, 14);
 }
+
+audio:hover{
+    transition-duration: 0.2s;
+    box-shadow: 5px 3px 10px rgb(1, 9, 14);
+}
