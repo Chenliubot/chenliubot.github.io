@@ -193,3 +193,12 @@ a:visited {
     padding: 20px;
     border-radius: 20px;
 }
+
+footer {
+    margin-top: 50px;
+    height: 70px;
+    padding: 25px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(17, 39, 59);
+}
