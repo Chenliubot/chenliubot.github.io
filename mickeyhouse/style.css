@@ -153,12 +153,6 @@ a:visited {
     float: right;
 }
 
-.content-footer {
-    font-size: 10px;
-    position: relative;
-    left: 80%;
-}
-
 .layout-grid {
     display: grid;
     grid-template-columns: 50% 1% 50%;
