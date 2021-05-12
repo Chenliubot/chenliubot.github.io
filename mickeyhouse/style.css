@@ -211,6 +211,18 @@ footer {
 
 .user-grid-section:hover {
     background-color: rgb(11, 32, 51);
-    transition-duration: 0.1s;
+    transition-duration: 0.2s;
     box-shadow: 0px 3px 10px rgb(1, 9, 14);
+}
+
+.boxes:hover {
+    background-color: rgb(8, 34, 58);
+    transition-duration: 0.2s;
+    box-shadow: 0px 3px 10px rgb(1, 9, 14);
+}
+
+.full-block:hover {
+    background-color: rgb(6, 25, 43);
+    transition-duration: 0.2s;
+    box-shadow: 5px 3px 10px rgb(1, 9, 14);
 }
