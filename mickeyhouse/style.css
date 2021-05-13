@@ -134,9 +134,7 @@ a:visited {
     width: 85%;
     align-content: center;
     background-color: rgba(12, 33, 49, 0.829);
-    padding: 10px;
     margin-left: 7.5%;
-    transform: translate(-10px);
     border-radius: 20px;
 }
 
@@ -175,13 +173,13 @@ a:visited {
 
 .layout-grid {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 49% 2% 49%;
+    
 }
 
 .u-info {
     height: 500px;
     position: relative;
-    left: -10px;
     padding: 20px;
     border-radius: 20px;
 }
@@ -197,10 +195,6 @@ a:visited {
     border-radius: 20px;
 }
 
-#u-info {
-    padding: 0px;
-}
-
 footer {
     margin-top: 50px;
     height: 70px;
@@ -212,8 +206,8 @@ footer {
 
 .user-board {
     display: grid;
-    grid-template-rows: 0.2fr 1fr 0.5fr 1fr 0.5fr 1fr 0.5fr 1fr 0.5fr 1fr;
-    overflow:scroll
+    height: 400px;
+    overflow: scroll;
 }
 
 .user-grid-section {
